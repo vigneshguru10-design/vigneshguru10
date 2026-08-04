@@ -7,7 +7,7 @@
 
 - 💬 Ask me about ****Python, SQL, Power BI, Machine Learning, Statistical Analysis, Lean Six Sigma, Supplier Quality Engineering****
 
-- About me ****Engineering and supply chain professional with strong experience in product development, quality management, and process optimization. Proven track record of driving cost savings and performance improvements through supplier audits, quality initiatives, and data driven decision making.****
+- About me ****Engineering and supply chain professional with extensive experience in supplier quality, manufacturing, process optimization, and business analytics. Passionate about applying machine learning, statistical analysis, and data visualization to solve real-world supply chain and quality engineering challenges.****
 
 <h3 align="left">🎓 Education</h3>
 
