@@ -64,7 +64,6 @@ Developed an interactive retail sales forecasting application to predict future 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vigneshguru10-design/NovaRetail)
 
 ## 📫 Contact
-
 - 📧 Email: vignesh.guru10@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/guruvignesh-lb-1048408a/
 - 💻 GitHub: https://github.com/vigneshguru10-design
