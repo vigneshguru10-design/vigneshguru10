@@ -44,43 +44,23 @@
 
 <h3 align="left">📂 Featured Projects</h3>
 
-### Supplier Risk Analytics & Predictive Quality Dashboard
+### IBM Employee Attrition Analysis & Clustering
 
-Developed machine learning models to predict supplier quality risk using supplier performance metrics including quality, delivery, response time, and spend. Built interactive dashboards to prioritize supplier development efforts and support proactive quality improvement.
+Developed an interactive Plotly Dash application to analyze employee attrition using exploratory data analysis, clustering, and predictive analytics. The dashboard enables users to explore workforce demographics, satisfaction, job role, compensation, and attrition trends through interactive visualizations and business insights.
 
-**Skills:** Python • Machine Learning • Power BI • SQL • Predictive Analytics • Supplier Quality
+**Skills:** Python • Plotly Dash • Machine Learning • K-Means Clustering • Data Visualization • Scikit-Learn
 
-[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](YOUR_GITHUB_LINK)
-
----
-
-### Employee Attrition Analysis & Clustering
-
-Applied K-Means clustering and exploratory data analysis to identify employee segments based on job level, tenure, compensation, and satisfaction. Developed business recommendations to improve employee retention.
-
-**Skills:** Python • Scikit-Learn • Plotly • Machine Learning • Clustering
-
-[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](YOUR_GITHUB_LINK)
-
----
-
-### Credit Default Prediction
-
-Developed classification models to predict customer loan default probability. Evaluated Logistic Regression and other machine learning models using ROC curves, confusion matrices, recall, precision, and lift analysis.
-
-**Skills:** Python • Classification • Logistic Regression • Statistics
-
-[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](YOUR_GITHUB_LINK)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Plotly-blue?style=for-the-badge&logo=plotly)](https://1b2be516-d2a3-463b-92da-ee8291dca4f6.plotly.app/)
 
 ---
 
 ### Retail Sales Forecasting
 
-Built predictive models using historical sales data and engineered features to forecast retail demand. Compared regression, random forest, and time-series models to improve forecasting accuracy.
+Developed predictive models using historical retail sales data to forecast customer demand and support inventory planning. Compared multiple machine learning and time-series approaches to improve forecasting accuracy and business decision-making.
 
-**Skills:** Python • Forecasting • Random Forest • Time Series • Feature Engineering
+**Skills:** Python • Random Forest • Time Series • Feature Engineering • Predictive Analytics
 
-[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](YOUR_GITHUB_LINK)
+[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/vigneshguru10-design/NovaRetail)
 
 - 📫 How to reach me **vignesh.guru10@gmail.com**
 
