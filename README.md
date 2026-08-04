@@ -41,6 +41,7 @@
 |---------------|--------------|--------|
 | Certified Manager of Quality / Organizational Excellence (CMQ/OE) | American Society for Quality (ASQ) | Active |
 | Certified Quality Engineer (CQE) | American Society for Quality (ASQ) | Active |
+| Project Management Professional (PMP) | Project Management Institute (PMI) | Active |
 
 <h3 align="left">📂 Featured Projects</h3>
 
