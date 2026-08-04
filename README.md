@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL Data mining**
 
-- 💬 Ask me about **I am a Supplier Quality Engineering professional with experience in manufacturing, supplier performance improvement, data analytics, and process improvement. I use Python, Power BI, SQL, statistical methods, and machine learning to identify supplier risks and support data-driven business decisions. I am especially interested in combining quality engineering with predictive analytics.**
+- 💬 Ask me about ****Python, SQL, Power BI, Machine Learning, Statistical Analysis, Lean Six Sigma, Supplier Quality Engineering****
 
 - 📫 How to reach me **vignesh.guru10@gmail.com**
 
