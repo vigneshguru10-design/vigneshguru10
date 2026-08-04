@@ -54,13 +54,14 @@ Developed an interactive Plotly Dash application to analyze employee attrition u
 
 ---
 
-### Retail Sales Forecasting
+### Retail Sales Forecasting (NovaRetail)
 
-Developed predictive models using historical retail sales data to forecast customer demand and support inventory planning. Compared multiple machine learning and time-series approaches to improve forecasting accuracy and business decision-making.
+Developed an interactive retail sales forecasting application to predict future sales using machine learning and time-series techniques. The application enables users to visualize sales trends, generate forecasts, and support inventory and business planning through an intuitive web dashboard.
 
-**Skills:** Python • Random Forest • Time Series • Feature Engineering • Predictive Analytics
+**Skills:** Python • Streamlit • Machine Learning • Random Forest • Time Series • Data Visualization
 
-[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/vigneshguru10-design/NovaRetail)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://novaretail1.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vigneshguru10-design/NovaRetail)
 
 - 📫 How to reach me **vignesh.guru10@gmail.com**
 
