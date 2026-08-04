@@ -33,8 +33,54 @@
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
 <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/></a>
-
 </p>
+
+<h3 align="left">🏆 Professional Certifications</h3>
+
+| Certification | Organization | Status |
+|---------------|--------------|--------|
+| Certified Manager of Quality / Organizational Excellence (CMQ/OE) | American Society for Quality (ASQ) | Active |
+| Certified Quality Engineer (CQE) | American Society for Quality (ASQ) | Active |
+
+<h3 align="left">📂 Featured Projects</h3>
+
+### Supplier Risk Analytics & Predictive Quality Dashboard
+
+Developed machine learning models to predict supplier quality risk using supplier performance metrics including quality, delivery, response time, and spend. Built interactive dashboards to prioritize supplier development efforts and support proactive quality improvement.
+
+**Skills:** Python • Machine Learning • Power BI • SQL • Predictive Analytics • Supplier Quality
+
+[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](YOUR_GITHUB_LINK)
+
+---
+
+### Employee Attrition Analysis & Clustering
+
+Applied K-Means clustering and exploratory data analysis to identify employee segments based on job level, tenure, compensation, and satisfaction. Developed business recommendations to improve employee retention.
+
+**Skills:** Python • Scikit-Learn • Plotly • Machine Learning • Clustering
+
+[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](YOUR_GITHUB_LINK)
+
+---
+
+### Credit Default Prediction
+
+Developed classification models to predict customer loan default probability. Evaluated Logistic Regression and other machine learning models using ROC curves, confusion matrices, recall, precision, and lift analysis.
+
+**Skills:** Python • Classification • Logistic Regression • Statistics
+
+[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](YOUR_GITHUB_LINK)
+
+---
+
+### Retail Sales Forecasting
+
+Built predictive models using historical sales data and engineered features to forecast retail demand. Compared regression, random forest, and time-series models to improve forecasting accuracy.
+
+**Skills:** Python • Forecasting • Random Forest • Time Series • Feature Engineering
+
+[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](YOUR_GITHUB_LINK)
 
 - 📫 How to reach me **vignesh.guru10@gmail.com**
 
